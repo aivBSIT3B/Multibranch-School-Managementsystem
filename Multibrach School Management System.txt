@@ -3,8 +3,7 @@ Multibranch School Managementsystem
 Contributor
 @missaplkmmy 
 
-Marpuri, Joshua Bonilla, 
-Rene Jay Basmayor, 
-Aivan Dave Lumanglas, 
-John Kenneth A
-
+Joshua P. Marpuri 
+Rene Jay Bonilla, 
+Aivan Dave Basmayor
+John Kenneth A. Lumanglas
